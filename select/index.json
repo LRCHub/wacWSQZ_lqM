@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニュートンダンス(ナユタン星ver)",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2026-03-31T10:02:56.842973Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニュートンダンス(ナユタン星ver)",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_ニュートンダンス(ナユタン星ver)_ナユタン星人.txt"
+    }
+  ]
+}
